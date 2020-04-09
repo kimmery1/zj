@@ -1,2 +1,3 @@
 # zj
-is a man
+是一个男人
+和a  Friend
